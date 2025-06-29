@@ -65,6 +65,6 @@ This project uses the [Walmart Sales Forecasting Dataset from Kaggle](https://ww
 
 ### 🔹 Reports & Visuals
 
-📄 [Executive Summary Report (PDF)](./reports/walmart_sales_pa_report.pdf)  
-🎯 [Canva Slide Deck (PDF)](./reports/walmart_sales_analysis_slides.pdf)
+📄 [Executive Summary Report (PDF)](https://drive.google.com/file/d/12LOXE_oPkBEMsxoG3kDNh2Jur18adAry/view?usp=sharing)  
+🎯 [Canva Slide Deck (PDF)](https://drive.google.com/file/d/1dGyClRDqCpkvJizO-sy1Dop6_A-HiSgd/view?usp=sharing)
 
