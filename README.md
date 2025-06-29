@@ -12,7 +12,7 @@ Walmart is interested in understanding its weekly sales trends, holiday impact, 
 
 ## 📁 Dataset
 
-This project uses the [Walmart Sales Forecasting Dataset from Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales).
+This project uses the [Walmart Sales Forecasting Dataset from Kaggle]([https://www.kaggle.com/datasets/mikhail1681/walmart-sales](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast)).
 
 **Files used:**
 - `train.csv`: Historical weekly sales data
